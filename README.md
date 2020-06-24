@@ -1,3 +1,3 @@
 # Alumni-Management-System
 
-Use XAMMP local server to run this project.
+Use XAMPP server to run this project.
